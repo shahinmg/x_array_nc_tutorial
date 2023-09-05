@@ -1,4 +1,5 @@
 ### xarray tutorial for KU glaciology
+This is a tutorial mostly from Xarray's [Xarray in 45 minutes](https://tutorial.xarray.dev/overview/xarray-in-45-min) and [Data Tidying](https://tutorial.xarray.dev/data_cleaning/ice_velocity.html) tutorials with a few different data sets
 
 ## installation
 
@@ -16,6 +17,13 @@ conda env create --file environment.yml
 
 conda activate xarray_tutorial
 ```
+
+In the `x_array_nc_tutorial` directory run
+
+```
+jupyter lab
+```
+and open the `xarray_ku_glaciology_tutorial.ipynb` notebook
 
 ## precipitation data
 
