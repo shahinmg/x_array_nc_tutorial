@@ -1,0 +1,6 @@
+name: xarray_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - rioxarray
+  - geopandas

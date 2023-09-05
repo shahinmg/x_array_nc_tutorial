@@ -7,4 +7,5 @@ ice_velocity.ipynb
 ase_xr_example.tif
 ase_map.qgz
 .spyproject/
-/precip_nc/pr_CESM2_historical_r10i1p1f1_gn_BCSDm_fine_monthly.nc
+/precip_nc_old/pr_CESM2_historical_r10i1p1f1_gn_BCSDm_fine_monthly.nc
+precip_test.py
