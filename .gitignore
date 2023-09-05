@@ -1,0 +1,10 @@
+nepal_precip.png
+nepal_precip.tif
+nepal_precip.tif.aux.xml
+xarray-in-45-min.ipynb
+xr_ase_vel_test.py
+ice_velocity.ipynb
+ase_xr_example.tif
+ase_map.qgz
+.spyproject/
+/precip_nc/pr_CESM2_historical_r10i1p1f1_gn_BCSDm_fine_monthly.nc
