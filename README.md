@@ -15,4 +15,4 @@ conda env create --file environment.yml
 
 ## precipitation data
 
-The precipitation data used in `xarray_ku_glaciology_tutorial.ipynb` is 8.2 gb. If you want to work with this data please download it [here](link)
+The precipitation data used in `xarray_ku_glaciology_tutorial.ipynb` is 8.2 gb. If you want to work with this data please download it [here](https://drive.google.com/file/d/1X7kWek8digimbxoMqxY8RtWgMR2ouLt-/view?usp=sharing)
