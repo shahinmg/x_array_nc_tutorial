@@ -11,6 +11,7 @@ cd x_array_nc_tutorial
 ```
 
 Install the packages in the `environment.yml` in a conda environment or create a new environment and install with
+Note: This can take a long time to create the environment
 
 ```
 conda env create --file environment.yml
