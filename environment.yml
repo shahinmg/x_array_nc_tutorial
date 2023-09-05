@@ -4,3 +4,6 @@ channels:
 dependencies:
   - rioxarray
   - geopandas
+  - jupyterlab
+  - h5netcdf
+  - netcdf4

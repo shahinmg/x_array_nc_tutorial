@@ -5,12 +5,16 @@
 clone the repository 
 ```
 git clone https://github.com/shahinmg/x_array_nc_tutorial.git
+
+cd x_array_nc_tutorial
 ```
 
 Install the packages in the `environment.yml` in a conda environment or create a new environment and install with
 
 ```
 conda env create --file environment.yml
+
+conda activate xarray_tutorial
 ```
 
 ## precipitation data
