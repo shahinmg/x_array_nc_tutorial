@@ -27,8 +27,8 @@ jupyter lab
 ```
 and open the `xarray_ku_glaciology_tutorial.ipynb` notebook
 
-The precipitatin data is not included with this repo because the file size is too large. If you would like to use this data in the repo floow the instructions below
+The precipitatin data is not included with this repo because the file size is too large. If you would like to use this data in the repo please follow the instructions below
 ## precipitation data
 
 The precipitation data used in `xarray_ku_glaciology_tutorial.ipynb` is 8.2 gb. If you want to work with this data please download it [here](https://drive.google.com/file/d/1X7kWek8digimbxoMqxY8RtWgMR2ouLt-/view?usp=sharing)
-and download it in the `precip_nc` directory.
+and save it in the `precip_nc` directory.
