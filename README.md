@@ -10,7 +10,8 @@ git clone https://github.com/shahinmg/x_array_nc_tutorial.git
 cd x_array_nc_tutorial
 ```
 
-Within the `x_array_nc_tutorial` directory, install the packages in the `environment.yml` in a conda environment or create a new environment and install with `conda env create --file environment.yml` and activate the environment
+Within the `x_array_nc_tutorial` directory, install the packages in the `environment.yml` in a conda environment or create a new environment and install with `conda env create --file environment.yml` and activate the environment  
+
 Note: This can take a long time to create the environment
 
 ```
