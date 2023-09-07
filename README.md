@@ -2,8 +2,9 @@
 This is a tutorial mostly from Xarray's [Xarray in 45 minutes](https://tutorial.xarray.dev/overview/xarray-in-45-min) and [Data Tidying](https://tutorial.xarray.dev/data_cleaning/ice_velocity.html) tutorials with a few different data sets
 
 ## installation
+Below are instructions for installation with a UNIX terminal.
 
-To use this repo first clone the repository and change the directory where the repo is located
+To use this repo first clone the repository and change to the directory where the repo is located
 ```
 git clone https://github.com/shahinmg/x_array_nc_tutorial.git
 
